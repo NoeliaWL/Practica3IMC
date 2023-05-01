@@ -1,0 +1,58 @@
+-----------
+Seed: 1
+-----------
+-----------
+Seed: 1
+-----------
+Number of RBFs used: 202
+Número de coeficientes nulos:  0
+Training MSE: 0.059982
+Test MSE: 0.295290
+Training CCR: 92.84%
+Test CCR: 63.22%
+-----------
+Seed: 2
+-----------
+Number of RBFs used: 202
+Número de coeficientes nulos:  0
+Training MSE: 0.061002
+Test MSE: 0.286765
+Training CCR: 92.84%
+Test CCR: 64.94%
+-----------
+Seed: 3
+-----------
+Number of RBFs used: 202
+Número de coeficientes nulos:  0
+Training MSE: 0.058342
+Test MSE: 0.308838
+Training CCR: 92.59%
+Test CCR: 62.07%
+-----------
+Seed: 4
+-----------
+Number of RBFs used: 202
+Número de coeficientes nulos:  0
+Training MSE: 0.059077
+Test MSE: 0.281738
+Training CCR: 93.09%
+Test CCR: 64.94%
+-----------
+Seed: 5
+-----------
+Number of RBFs used: 202
+Número de coeficientes nulos:  0
+Training MSE: 0.052982
+Test MSE: 0.315948
+Training CCR: 93.83%
+Test CCR: 60.92%
+******************
+Summary of results
+******************
+Training MSE: 0.058277 +- 0.002793
+Test MSE: 0.297716 +- 0.012940
+Training CCR: 93.04% +- 0.42%
+Test CCR: 63.22% +- 1.58%
+Best seed: 2
+Best CCR train: 93%
+Best CCR test: 65%
